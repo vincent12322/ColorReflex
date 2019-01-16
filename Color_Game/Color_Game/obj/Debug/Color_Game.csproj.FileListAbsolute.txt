@@ -1,0 +1,10 @@
+C:\Users\eber0\source\repos\Color_Game\Color_Game\bin\Debug\Color_Game.exe.config
+C:\Users\eber0\source\repos\Color_Game\Color_Game\bin\Debug\Color_Game.exe
+C:\Users\eber0\source\repos\Color_Game\Color_Game\bin\Debug\Color_Game.pdb
+C:\Users\eber0\source\repos\Color_Game\Color_Game\obj\Debug\Color_Game.csprojAssemblyReference.cache
+C:\Users\eber0\source\repos\Color_Game\Color_Game\obj\Debug\Color_Game.Form1.resources
+C:\Users\eber0\source\repos\Color_Game\Color_Game\obj\Debug\Color_Game.Properties.Resources.resources
+C:\Users\eber0\source\repos\Color_Game\Color_Game\obj\Debug\Color_Game.csproj.GenerateResource.cache
+C:\Users\eber0\source\repos\Color_Game\Color_Game\obj\Debug\Color_Game.csproj.CoreCompileInputs.cache
+C:\Users\eber0\source\repos\Color_Game\Color_Game\obj\Debug\Color_Game.exe
+C:\Users\eber0\source\repos\Color_Game\Color_Game\obj\Debug\Color_Game.pdb
